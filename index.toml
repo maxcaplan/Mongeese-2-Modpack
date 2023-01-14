@@ -226,6 +226,11 @@ hash = "b321dd880886cb905fa58cd80c8e1c6d7e1b7eaca4382000fe0c74c687508820"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "9823677318de3ce0516d864f2be203e851ae3abf8254535cd099a7ea152beff1"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "42cd7e16cef498c9d24df3bdcbc53fadcd4a2165f5f1b987f466705a1c201cf3"
 metafile = true
@@ -313,16 +318,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "89401492cbed4d996826422cd7c91df9a95b397ca194c36a81e0e24aba31b406"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "b4b49a330dc27c0a62f8ea34eb9ec03129ae4f8c3900d317c23bc9720a4d738e"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-trades.pw.toml"
-hash = "f3a60be69dcc6f70951ca1c8750fc473a4374adef53926a557fca2c17522689d"
 metafile = true
 
 [[files]]
