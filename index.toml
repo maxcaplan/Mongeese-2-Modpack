@@ -156,6 +156,11 @@ hash = "ce83062294358be02756e46a9d8e6e9d1df8e9f8b1138f4a41e48a77bfe20e27"
 metafile = true
 
 [[files]]
+file = "mods/easier-sleeping.pw.toml"
+hash = "38583840dfcba1846ba272850baa63c4060ba53b679f7bafc782f63cf3b10720"
+metafile = true
+
+[[files]]
 file = "mods/enlightened-end.pw.toml"
 hash = "847f6f3aefd43f87f1c9877f92abfb911fff41f80bc5ab0e17cbfbbb66297cb1"
 metafile = true
