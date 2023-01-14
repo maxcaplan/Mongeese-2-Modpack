@@ -1,0 +1,13 @@
+name = "Thermal Innovation"
+filename = "thermal_innovation-1.19.2-10.0.0.16.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MNgLmnvM/versions/t53ZkNHs/thermal_innovation-1.19.2-10.0.0.16.jar"
+hash-format = "sha1"
+hash = "f44892380aacc0bdbabea9af85ea232a74011618"
+
+[update]
+[update.modrinth]
+mod-id = "MNgLmnvM"
+version = "t53ZkNHs"

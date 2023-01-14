@@ -1,0 +1,13 @@
+name = "playerAnimator"
+filename = "player-animation-lib-forge-0.4.0-test4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gedNE4y2/versions/4N2FD8jo/player-animation-lib-forge-0.4.0-test4.jar"
+hash-format = "sha1"
+hash = "7cafcd0d729cc2a54546c02ba732fa985e3ea6b1"
+
+[update]
+[update.modrinth]
+mod-id = "gedNE4y2"
+version = "4N2FD8jo"

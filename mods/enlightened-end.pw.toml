@@ -1,0 +1,13 @@
+name = "Enlightened End"
+filename = "enlightened-end-1.19.2-v25.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SwolYSb8/versions/8chHiDjS/enlightened-end-1.19.2-v25.jar"
+hash-format = "sha1"
+hash = "a0f0b102eb01ef548a48c3f61f56055f6808f950"
+
+[update]
+[update.modrinth]
+mod-id = "SwolYSb8"
+version = "8chHiDjS"

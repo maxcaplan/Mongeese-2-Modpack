@@ -1,0 +1,13 @@
+name = "Rechiseled"
+filename = "rechiseled-1.0.12-forge-mc1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/B0g2vT6l/versions/QH2Ok2VA/rechiseled-1.0.12-forge-mc1.19.jar"
+hash-format = "sha1"
+hash = "4f67c042d3cc2b6e480fe806be6690cc7ac255dd"
+
+[update]
+[update.modrinth]
+mod-id = "B0g2vT6l"
+version = "QH2Ok2VA"
