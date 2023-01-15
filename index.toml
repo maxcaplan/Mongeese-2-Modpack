@@ -16,6 +16,11 @@ hash = "4a9d0bae7a9a88ccfac620547d4141435527a58aa0bf51882bcda0e2c7f94a21"
 metafile = true
 
 [[files]]
+file = "mods/alchemical-drugs.pw.toml"
+hash = "fef316908d12a1e629b437a3f9cd52c2171036214b6b82a2d896196c6ab5223b"
+metafile = true
+
+[[files]]
 file = "mods/alchemistry.pw.toml"
 hash = "4ff07d46b43753a8b2f17e471c9a7167eddd54d921ce149a5fa030ddf01bf20d"
 metafile = true
@@ -126,6 +131,11 @@ hash = "ca774309a060de1880bb4998abdf61c9aed1f1e6dfeb0410ee43e9c485795b16"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "7888581aab75ca835f111ff4d8072e3c2aa4338c3b1bf5d760ca5a4df43b8dd0"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "d6523958bfcd814e0c4125e533324f16f04219aa3f8fec7ca4ddc44667bacfaa"
 metafile = true
@@ -198,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
+metafile = true
+
+[[files]]
+file = "mods/flux-networks.pw.toml"
+hash = "b305837e85ed7e5d36771e07cbf1ce67362cf535bded354fc51110b9d6a872be"
 metafile = true
 
 [[files]]
@@ -276,6 +291,11 @@ hash = "ebfccd65ee03d802e56df625e083332d3dea920092214ff17c7ddd71de058351"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9055b4a92e2ea4ad8661c226f549040eb48ae535070942a3a95b019c08ca70f6"
 metafile = true
@@ -303,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "f23e0c418ccffdf9109857dea99629f656fac0247430e47ea1c65a8fc8c78a6c"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "a0b717e012441e2bef8d9c1b7222dd9b25adf06d55ace1144eabf3ee6f637733"
 metafile = true
 
 [[files]]
@@ -393,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "bf32b25592e5d8b419ad95822474bf335544bdd2202315bbc7f7729f7decfabe"
+metafile = true
+
+[[files]]
+file = "mods/travelers-backpack.pw.toml"
+hash = "4330818b0f5d662790ab7c6e95d849af1fe366e00f2544c35064b376e5e964a3"
 metafile = true
 
 [[files]]
