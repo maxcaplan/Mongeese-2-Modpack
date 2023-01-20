@@ -121,6 +121,11 @@ hash = "775ba9db8af593510ab38e497e4bed1aa5dcd7cae8cdd1d6a2dbe693c28de8fa"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "5880c81df1af395ec3762eff4e98c78f7b75e62db67e1d191a1772d79aabc073"
+metafile = true
+
+[[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "9842a952faa6ca8f3c4d741ac53f05c2f966bd8c008256edfdceb8dffed2de57"
 metafile = true
@@ -163,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "ce83062294358be02756e46a9d8e6e9d1df8e9f8b1138f4a41e48a77bfe20e27"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "c904616dcf20ecec8793dd8f736f878219332c82cc728ba430705a74b06f995a"
 metafile = true
 
 [[files]]
@@ -216,6 +226,11 @@ hash = "b305837e85ed7e5d36771e07cbf1ce67362cf535bded354fc51110b9d6a872be"
 metafile = true
 
 [[files]]
+file = "mods/fuelgoeshere.pw.toml"
+hash = "707fa22314bbe97299783f923fe5fb797d26f2a38d9812e1bb0439719cf80020"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "1e5a5f5f90407846936ae76d711c988607fcc92f22b319b847d86b74e65395b6"
 metafile = true
@@ -238,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/infinitybuttons.pw.toml"
 hash = "b321dd880886cb905fa58cd80c8e1c6d7e1b7eaca4382000fe0c74c687508820"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "c24cdfd72b2bdfc43e9f7ed7f2cc2ab67ef4abfaaaf92f21ebfd373d5163b4c0"
 metafile = true
 
 [[files]]
@@ -296,6 +316,11 @@ hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "63800317329d340d3550b00dda4fecb2861cc6a643c2390d34f446c550ff9f06"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9055b4a92e2ea4ad8661c226f549040eb48ae535070942a3a95b019c08ca70f6"
 metafile = true
@@ -333,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "9fee2cb8c4e676d88013edf92fd00f3f3c0dfd8b4bd11ec515d389f4801647d4"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "688013998028f987aec9060cb93dff328be0a692255ad07fcf2a97c0215eed90"
 metafile = true
 
 [[files]]
@@ -423,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-backpack.pw.toml"
 hash = "4330818b0f5d662790ab7c6e95d849af1fe366e00f2544c35064b376e5e964a3"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "9527fac4f14f0c67197b35c7301b63826d0a6d4b59f2ef00af4e327d03753476"
 metafile = true
 
 [[files]]

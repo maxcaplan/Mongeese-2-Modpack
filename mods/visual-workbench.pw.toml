@@ -1,0 +1,13 @@
+name = "Visual Workbench"
+filename = "VisualWorkbench-v4.2.1-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kfqD1JRw/versions/pp2m6C0d/VisualWorkbench-v4.2.1-1.19.2-Forge.jar"
+hash-format = "sha1"
+hash = "b9c88db6417c11415be77e0c1362a5827c25c18c"
+
+[update]
+[update.modrinth]
+mod-id = "kfqD1JRw"
+version = "pp2m6C0d"
