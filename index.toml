@@ -246,6 +246,11 @@ hash = "93cfebe5595c980571d565e98aa6bfea462213d50684444675741ffbf099fd01"
 metafile = true
 
 [[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "9fdd9d08a36dea8abcf8c0bdea42740685f3baa2e48e0d81ce73169cbf6af05e"
+metafile = true
+
+[[files]]
 file = "mods/infinitybuttons.pw.toml"
 hash = "b321dd880886cb905fa58cd80c8e1c6d7e1b7eaca4382000fe0c74c687508820"
 metafile = true
@@ -327,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "8895f6fc1d8d8280539f3e381f3b0316d912600d7a8dda216ce83466abaa5aee"
+hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
 metafile = true
 
 [[files]]
@@ -438,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-locomotion.pw.toml"
 hash = "dd29d8a3452d59871a70783996e09fd4d7133e8b9a6fe0833d7e916d1e846b1f"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "37076acd7a19158b2abc16f48362064ea1d9438c9ceb091dd2b07b827ab90662"
 metafile = true
 
 [[files]]
