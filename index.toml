@@ -16,11 +16,6 @@ hash = "4a9d0bae7a9a88ccfac620547d4141435527a58aa0bf51882bcda0e2c7f94a21"
 metafile = true
 
 [[files]]
-file = "mods/alchemical-drugs.pw.toml"
-hash = "fef316908d12a1e629b437a3f9cd52c2171036214b6b82a2d896196c6ab5223b"
-metafile = true
-
-[[files]]
 file = "mods/alchemistry.pw.toml"
 hash = "4ff07d46b43753a8b2f17e471c9a7167eddd54d921ce149a5fa030ddf01bf20d"
 metafile = true
@@ -256,8 +251,8 @@ hash = "b321dd880886cb905fa58cd80c8e1c6d7e1b7eaca4382000fe0c74c687508820"
 metafile = true
 
 [[files]]
-file = "mods/inventory-sorting.pw.toml"
-hash = "c24cdfd72b2bdfc43e9f7ed7f2cc2ab67ef4abfaaaf92f21ebfd373d5163b4c0"
+file = "mods/inventory-sorter.pw.toml"
+hash = "0b2c570acfd6375e2aa8f649cb26384cf1194e9966dd8c7d2df04399a071f53c"
 metafile = true
 
 [[files]]

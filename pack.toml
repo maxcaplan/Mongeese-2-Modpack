@@ -1,12 +1,12 @@
 name = "Modgeese 2 Client"
 author = "Max Caplan"
-version = "0.1.2"
+version = "0.2.1"
 pack-format = "packwiz:1.1.2"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "463c7a9a2f9784fc5e0d33e9221255f9430cf2190dc048f3837e61fbae14358e"
+hash = "701410dc5ced6237d70f59c07b8f3152f14948066bdddf27a717f579f08e74e3"
 
 [versions]
 forge = "43.2.0"
