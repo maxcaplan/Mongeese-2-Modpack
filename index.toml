@@ -136,6 +136,11 @@ hash = "7888581aab75ca835f111ff4d8072e3c2aa4338c3b1bf5d760ca5a4df43b8dd0"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "1400f0a5f428367609794c7fe3fb825163cbb6bf5b6715dff5fbfe5f02c078d2"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "d6523958bfcd814e0c4125e533324f16f04219aa3f8fec7ca4ddc44667bacfaa"
 metafile = true
