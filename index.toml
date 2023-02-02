@@ -11,6 +11,11 @@ hash = "bf53a771499f6d746ef6d72c688f7e686fca6a79a5f80fd0d46a81ae739c3412"
 metafile = true
 
 [[files]]
+file = "mods/advanced-peripherals.pw.toml"
+hash = "81f7c0fde3dfcbeaf12e904e747049fb62ec4f890f57a82693a964933a3b74bb"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "4a9d0bae7a9a88ccfac620547d4141435527a58aa0bf51882bcda0e2c7f94a21"
 metafile = true
@@ -61,13 +66,13 @@ hash = "3b25d129d50c154e26487294c1bad1d48b220e7ad28f7848452d8040a2344b78"
 metafile = true
 
 [[files]]
-file = "mods/better-combat.pw.toml"
-hash = "b2b3fc99dfea7f5fea3045f40716d84e024e90d065b9c96a45e1bf065da4ade6"
+file = "mods/biomesyougo.pw.toml"
+hash = "19791ebcfa792cbcb17e23fdc90eba5293917e8066cecb0d1527a34e8c034065"
 metafile = true
 
 [[files]]
-file = "mods/biomesyougo.pw.toml"
-hash = "19791ebcfa792cbcb17e23fdc90eba5293917e8066cecb0d1527a34e8c034065"
+file = "mods/blockcarpentry.pw.toml"
+hash = "9a0d4af8d4a3978163d19c6ad2be723e97feaa931c93592d817a74270f453619"
 metafile = true
 
 [[files]]
@@ -92,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "3bc013bf034fac6d11af173906783032df602b8bd5e48f9bebca669e9f81f7cd"
+hash = "e3dc964743f0a53b770943bac811000ec55be435d4b36eadb3682105bcbaddd6"
 metafile = true
 
 [[files]]
