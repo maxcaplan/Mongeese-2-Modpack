@@ -71,11 +71,6 @@ hash = "19791ebcfa792cbcb17e23fdc90eba5293917e8066cecb0d1527a34e8c034065"
 metafile = true
 
 [[files]]
-file = "mods/blockcarpentry.pw.toml"
-hash = "9a0d4af8d4a3978163d19c6ad2be723e97feaa931c93592d817a74270f453619"
-metafile = true
-
-[[files]]
 file = "mods/botania.pw.toml"
 hash = "6f911f39be59c3013a5d08683dec20e7df4e59c7ede39f025e20bb610044a941"
 metafile = true
@@ -228,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "b305837e85ed7e5d36771e07cbf1ce67362cf535bded354fc51110b9d6a872be"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "68ffae45121468e8205b8be4d2d67b723928de3ffb1aeda068eea3d6c9d246e0"
 metafile = true
 
 [[files]]
