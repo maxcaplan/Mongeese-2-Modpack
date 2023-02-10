@@ -1,6 +1,6 @@
 name = "Modgeese 2 Client"
 author = "Max Caplan"
-version = "0.2.4"
+version = "0.3.0"
 pack-format = "packwiz:1.1.2"
 
 [index]
