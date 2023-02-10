@@ -51,6 +51,11 @@ hash = "d3406728fc72fa787bdb5c45426f42af5930b711594dbfd4b26d830c8c00f9d4"
 metafile = true
 
 [[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "48a1be62231995c1870fd839f9262470235e1c52f8ba07b36daceee50e8580d4"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "8d1ec188efcba9505dbdb6e64b6df702d510dee21ebb0d24b8d58f93ee07db87"
 metafile = true
@@ -166,6 +171,11 @@ hash = "dd6b3a499a5b71b8cb879e95adc419a57f1013ff8d3adeb22c198c9d237c053b"
 metafile = true
 
 [[files]]
+file = "mods/decorative-blocks.pw.toml"
+hash = "b33441b07f85bd9d3a7757020afcc01b80a44cc376b29475ed246b0f97ec7d11"
+metafile = true
+
+[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "ce83062294358be02756e46a9d8e6e9d1df8e9f8b1138f4a41e48a77bfe20e27"
 metafile = true
@@ -178,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/easier-sleeping.pw.toml"
 hash = "38583840dfcba1846ba272850baa63c4060ba53b679f7bafc782f63cf3b10720"
+metafile = true
+
+[[files]]
+file = "mods/effortless-building.pw.toml"
+hash = "b4a3ffcdcf08ab276b51cc5ca10267e0af585708f4f2134224baa0de8f3d4d11"
 metafile = true
 
 [[files]]
@@ -207,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "8814533ec5535f3eeaecb1b6fc8e97c4e6e85546de82428e6824b98855d60d0d"
+hash = "03c419552b4da26729b658e78546ed045e5d9b25bca5f9253ebfb6a33cd91d1f"
 metafile = true
 
 [[files]]
@@ -331,6 +346,11 @@ hash = "63800317329d340d3550b00dda4fecb2861cc6a643c2390d34f446c550ff9f06"
 metafile = true
 
 [[files]]
+file = "mods/nethers-delight.pw.toml"
+hash = "f349720f05bacd441290629a2aabb95a8c5f742227037900db022f4e0258f2de"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9055b4a92e2ea4ad8661c226f549040eb48ae535070942a3a95b019c08ca70f6"
 metafile = true
@@ -341,8 +361,18 @@ hash = "73389d33df0e78425c139ae64f2b1b8cfa2dd2e9503c53f5eb47482f7191c722"
 metafile = true
 
 [[files]]
+file = "mods/openblocks-elevator.pw.toml"
+hash = "13e10e5493f19da1737436c19899a26845c9c965f1b00ba30ee48863f44ae324"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "2a3d0a097540d53896e6eb9ca951ab54b525b73f40f248b68986faa4a1bf4d62"
 metafile = true
 
 [[files]]
@@ -373,6 +403,16 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "688013998028f987aec9060cb93dff328be0a692255ad07fcf2a97c0215eed90"
+metafile = true
+
+[[files]]
+file = "mods/raven-brews-core.pw.toml"
+hash = "4e332166a8d1cbc06026f9e13785138d4c765cbc4a76b0d2a8fa74f46111c170"
+metafile = true
+
+[[files]]
+file = "mods/raven-coffee.pw.toml"
+hash = "4d13ffcf83dd1df95c19be9ae8f47eeee281167b6095ccb36f90c5c741e166c0"
 metafile = true
 
 [[files]]
@@ -426,6 +466,11 @@ hash = "64036b0bc617a33d904a0e6371ddc7d63896a888b1e0ada1a6eae8f647bb9327"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "176eda94ad465f880e240ef29685dfd9b21aac18c1606c8d526b9dcad4a232f4"
+metafile = true
+
+[[files]]
 file = "mods/thermal-cultivation.pw.toml"
 hash = "983858fac4978ead9207fd5b28d49802c024ff72a3c8bdeb36185df52919b968"
 metafile = true
@@ -458,6 +503,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "37076acd7a19158b2abc16f48362064ea1d9438c9ceb091dd2b07b827ab90662"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.pw.toml"
+hash = "8ff48d18f2fbe8df674dcd79aabcece27808667c270401b06ac10c97d7552990"
 metafile = true
 
 [[files]]
