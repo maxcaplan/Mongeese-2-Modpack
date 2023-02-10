@@ -406,16 +406,6 @@ hash = "688013998028f987aec9060cb93dff328be0a692255ad07fcf2a97c0215eed90"
 metafile = true
 
 [[files]]
-file = "mods/raven-brews-core.pw.toml"
-hash = "4e332166a8d1cbc06026f9e13785138d4c765cbc4a76b0d2a8fa74f46111c170"
-metafile = true
-
-[[files]]
-file = "mods/raven-coffee.pw.toml"
-hash = "4d13ffcf83dd1df95c19be9ae8f47eeee281167b6095ccb36f90c5c741e166c0"
-metafile = true
-
-[[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "cbb365fcc4d966445d6b6bc8b0dca4b119a08bacc6010b77699ae7db78b0b456"
 metafile = true
